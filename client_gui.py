@@ -13,7 +13,7 @@ class StreamingClient:
         self.window = None
         self.video_area = None
         self.status_label = None
-        self.server_url = "http://127.0.0.1:8079"
+        self.server_url = "http://... . . .:xyz" #use the actual address of your local host
 
     def create_gui(self):
         self.window = Gtk.Window(title="Video Stream Viewer")
