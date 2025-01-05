@@ -56,6 +56,3 @@ This project implements a real-time video streaming client-server application. T
 
 1. Use the GUI to start or stop the video stream. The Flask server will handle the streaming commands.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
