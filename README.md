@@ -54,5 +54,5 @@ This project implements a real-time video streaming client-server application. T
 
 ## Usage
 
-1. Use the GUI to start or stop the video stream. The Flask server will handle the streaming commands.
+Use the GUI to start or stop the video stream. The Flask server will handle the streaming commands.
 
