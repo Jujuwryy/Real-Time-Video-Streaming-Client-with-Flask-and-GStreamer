@@ -39,7 +39,6 @@ This project implements a real-time video streaming client-server application. T
     - `GStreamer 1.0`
     - `Flask`
     - `PyGObject` for GTK
-    - Other Python dependencies (see requirements.txt)
 
 2. Clone the repository:
     ```bash
